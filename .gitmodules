@@ -1,0 +1,3 @@
+[submodule "subRepo-test"]
+	path = subRepo-test
+	url = https://github.com/Szyln/subRepo-test.git
